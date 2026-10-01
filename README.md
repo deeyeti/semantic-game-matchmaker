@@ -1,7 +1,7 @@
 # 🎮 Semantic Game Matchmaker API
 
 A REST API for searching video games using **natural-language semantic search**.  
-It stores game metadata alongside **384-dimensional vector embeddings** of each game's description, enabling hybrid search that combines **pgvector cosine similarity** with traditional relational filters (price, genre).
+It stores game metadata alongside **384-dimensional vector embeddings** of each game's description, enabling hybrid search that combines **pgvector cosine similarity** with traditional relational filters (price, genre). (i love video games :P)
 
 ## Tech Stack
 
